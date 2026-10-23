@@ -1,0 +1,10 @@
+{
+  "name": "booking-slot-concurrency-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Database-level race-safety for a time-slot booking API, proven with a real concurrent-request test.",
+  "dependencies": {
+    "next": "^15.0.0",
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
